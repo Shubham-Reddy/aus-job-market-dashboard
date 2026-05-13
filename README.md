@@ -17,7 +17,7 @@ An interactive dashboard analysing 5,000+ Australian job postings to identify in
 - Industry distribution
 
 ## Live Demo
-[View Dashboard](https://shubham-reddy-aus-job-market-dashboard.streamlit.app)
+[View Dashboard](https://aus-job-market.streamlit.app)
 
 ## Author
 Shubham Reddy — Master of Data Science, RMIT University Melbourne
