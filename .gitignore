@@ -1,0 +1,6 @@
+venv/
+data/
+archive.zip
+jobs.csv
+__pycache__/
+*.pyc
